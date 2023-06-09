@@ -1,5 +1,5 @@
 # date-functions-in-react
-Sample with using date-fns and date-fns-tz with React
+Sample with timezone arithmetic using date-fns and date-fns-tz, as well as luxon and standard dates in a Vite React project shell
 
 Uses `pnpm`
 
